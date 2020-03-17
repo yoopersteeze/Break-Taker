@@ -20,3 +20,8 @@ It installs a LaunchDaemon called `com.breaktaker.launcher.plist`, a script at `
 *Requirements*
 ---
 - Machine with jamf binary installed
+
+*Personal Suggestions*
+---
+- If you are a person who gives a lot of presentations, this might not be the best tool as it shows no mercy whether you're presenting or not.
+- If you want to configure the time to be different, the LaunchDaemon plist will need to be edited by you.
