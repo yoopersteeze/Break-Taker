@@ -18,4 +18,5 @@ It installs a LaunchDaemon called `com.breaktaker.launcher.plist`, a script at `
 *See the uninstall.sh script in this project to uninstall*
 
 *Requirements*
+---
 - Machine with jamf binary installed
