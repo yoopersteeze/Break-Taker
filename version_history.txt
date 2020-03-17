@@ -1,0 +1,2 @@
+Version 1.0.0 - Initial Release
+Version 1.0.1 - Added countdown and gave proper credits for how I got this started, Jamf Nation user: daworley and this thread: https://www.jamf.com/jamf-nation/discussions/33273/jamf-helper-delay. Also updated images and alignment.
