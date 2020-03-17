@@ -2,7 +2,7 @@
 
 *A jamfHelper tool that reminds you to take a break every two hours with the increase of WFH because of beer flu*
 
-![](Images/break-taker.png)
+![](Images/breaktaker.png)
 
 *What does it install you ask?*
 ---
