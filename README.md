@@ -26,4 +26,4 @@ It installs a LaunchDaemon called `com.breaktaker.launcher.plist`, a script at `
 
 *Uninstalling*
 ---
-[See uninstall.sh to remove files installed by package](../blob/master/uninstall.sh)
+[See uninstall.sh to remove files installed by package](/blob/master/uninstall.sh)
